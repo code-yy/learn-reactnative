@@ -28,3 +28,19 @@ yarn add @react-navigation/native-stack @react-navigation/stack
 
 expo install react-native-svg
 ```
+
+## ReactNative でのタグ
+
+```tsx
+
+<div> → <View>
+
+<p> → <Text>
+
+<img> → <Image>
+
+<div> → <ScrollView> (スクロール可能)
+
+<input type="text"> → <TextInput>
+
+```
